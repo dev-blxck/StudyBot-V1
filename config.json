@@ -1,0 +1,7 @@
+{
+    "prefix": "!",
+    "token": "YOUR_BOT_TOKEN",
+    "aliases": {
+        "ask": ["solve", "question"]
+    }
+}
